@@ -103,13 +103,13 @@ The Timesheet Portal allowed employees to login and submit their time worked for
 -	Developed dashboards in Encompass (software) using HTML, CSS, and JavaScript which helped improve workflow.
 -	Troubleshoot issues for internal users. Manage data that was entered into the database.
 -	Created automation tools using React JS which allowed the rapid creation chains (Code) and improved testing time.
--	
+
 ### <span> Fanatics, Jacksonville, FL	Aug. 2016-Aug 2018 Dynamic Imaging</span>
 -	Development of customizable web images using Liquid Pixel chains. (Coding based in
 Pearl).
 -	Image editing, and Font creation using photoshop and FontLab Studio 5.
 -	Created automation tools using Electron JS which allowed the rapid creation chains (Code) and improved testing time.
--	
+
 ### <span> Shoori Studios, Jacksonville, FL	May 2014-May 2016 Developer and Designer </span>
 -	Designed, developed, and coding of Websites using HTML, JavaScript, and CSS
 -	Maintenance of developed WordPress sites and server applications.
